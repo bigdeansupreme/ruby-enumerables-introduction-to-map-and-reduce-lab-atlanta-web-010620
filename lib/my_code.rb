@@ -29,7 +29,7 @@ def map_to_double(source_array)
   return result
 end
 
-map_to_square(source_array)
+def map_to_square(source_array)
 
 result = []
 i = 0
