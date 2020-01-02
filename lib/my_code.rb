@@ -34,7 +34,7 @@ map_to_square(source_array)
 result = []
 i = 0
 while i < source_array.length do
-  result.push( source_array[i]**
+  result.push( source_array[i]** )
   i += 1
 end
 return result
